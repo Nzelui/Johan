@@ -1,6 +1,6 @@
 # Johan
 my fisrt report
-# heading 1
+---# heading 1
 ## heading 2
 ### heading 3
 #### heading 4  
@@ -16,3 +16,5 @@ _text_
    we use the `<h1>` to do something
 ``` javascript
 console.log ("hello")
+``` cmd
+git clone <url>
