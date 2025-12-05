@@ -17,5 +17,4 @@ _text_
    we use the `<h1>` to do something
 ``` javascript
 console.log ("hello")
-``` cmd
-git clone <url>
+this code was created by [johan brayan](http://example.com)
