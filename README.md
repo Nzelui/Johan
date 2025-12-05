@@ -5,3 +5,7 @@ my fisrt report
 ### heading 3
 #### heading 4  
 ###### heading 6
+* text *
+_ text _
+** text **
+  *** text ***
