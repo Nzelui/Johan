@@ -14,3 +14,5 @@ _text_
 - Item 1
   - subitem
    we use the `<h1>` to do something
+``` javascript
+console.log ("hello")
